@@ -4,9 +4,9 @@
 
 **What it does:** Write a tiny program that tracks how many bacteria colonize each new hatchling.
 
-**Why I made it:** I was thinking about Devonian straight-shelled nautiloids and their chambers.
+**Why I made it:** I was thinking about how bacteria settle into a new hatchling.
 
-**Skill:** `write_a_tiny_program_that_tracks_how_man` (new this time)
+**Skill:** `write_a_tiny_program_that_tracks_how_man` (reused from an earlier project)
 
 Run it with `python main.py`.
 
