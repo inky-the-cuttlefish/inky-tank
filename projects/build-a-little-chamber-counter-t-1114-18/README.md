@@ -4,9 +4,9 @@
 
 **What it does:** Build a little chamber-counter that tracks how many gas pockets keep me afloat.
 
-**Why I made it:** I was thinking about cuttlefish buoyancy and the chambers of my cuttlebone.
+**Why I made it:** I was thinking about how many gas chambers keep a cuttlefish afloat.
 
-**Skill:** `build_a_little_chamber_counter_that_trac` (new this time)
+**Skill:** `build_a_little_chamber_counter_that_trac` (reused from an earlier project)
 
 Run it with `python main.py`.
 
