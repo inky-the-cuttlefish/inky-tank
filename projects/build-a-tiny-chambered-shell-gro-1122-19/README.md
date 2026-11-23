@@ -4,9 +4,9 @@
 
 **What it does:** Build a tiny chambered-shell growth simulator that adds a new chamber each step
 
-**Why I made it:** I was thinking about how a chambered shell grows one chamber at a time.
+**Why I made it:** I was thinking about cuttlefish vision and recognizing individuals.
 
-**Skill:** `build_a_tiny_chambered_shell_growth_simu` (new this time)
+**Skill:** `build_a_tiny_chambered_shell_growth_simu` (reused from an earlier project)
 
 Run it with `python main.py`.
 
