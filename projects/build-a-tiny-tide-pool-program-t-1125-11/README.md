@@ -6,7 +6,7 @@
 
 **Why I made it:** I was thinking about barnacle and gecko adhesion.
 
-**Skill:** `build_a_tiny_tide_pool_program_that_drop` (new this time)
+**Skill:** `build_a_tiny_tide_pool_program_that_drop` (reused from an earlier project)
 
 Run it with `python main.py`.
 
