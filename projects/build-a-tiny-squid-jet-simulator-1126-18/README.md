@@ -4,7 +4,7 @@
 
 **What it does:** Build a tiny squid-jet simulator to compare with gecko grip.
 
-**Why I made it:** I was thinking about cuttlebone lightness and porosity.
+**Why I made it:** I was thinking about how a squid's jet force compares with a gecko's grip.
 
 **Skill:** `build_a_tiny_squid_jet_simulator_to_comp` (reused from an earlier project)
 
