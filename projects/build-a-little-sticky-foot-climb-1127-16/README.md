@@ -4,9 +4,9 @@
 
 **What it does:** Build a little sticky-foot climbing simulator to compare how geckos cling to glass.
 
-**Why I made it:** I was thinking about how gecko setae cling to glass and whether the grip holds up.
+**Why I made it:** I was thinking about how many tiny setae it takes to hold a gecko on a glass wall.
 
-**Skill:** `build_a_little_sticky_foot_climbing_simu` (new this time)
+**Skill:** `build_a_little_sticky_foot_climbing_simu` (reused from an earlier project)
 
 Run it with `python main.py`.
 
